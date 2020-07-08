@@ -4,5 +4,5 @@ A journal detailing my adventure as I learn more and more about behaviour packs.
 
 ## Table of Contents
 
-[Introduction](journals/Introduction-July-6-2020.md) - July 6, 2020
-[Experimenting with Behaviour Animations](journals/Experimenting-with-Behaviour-Animations-July-8-2020.md) - July 8, 2020
+[[Introduction]](journals/Introduction-July-6-2020.md) - July 6, 2020
+[[Experimenting with Behaviour Animations]](journals/Experimenting-with-Behaviour-Animations-July-8-2020.md) - July 8, 2020
