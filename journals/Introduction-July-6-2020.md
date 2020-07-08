@@ -6,4 +6,4 @@ The first entry is usually the most difficult one to write in my opinion. It's J
 So sit back, relax, and I guess have fun reading my journal?
 \- William Qi
 
-[Home](../index.md)
+[Home](../index.md) [Next](Experimenting-with-Behaviour-Animations-July-8-2020.md)
