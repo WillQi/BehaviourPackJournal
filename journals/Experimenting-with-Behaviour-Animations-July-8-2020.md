@@ -127,10 +127,9 @@ I went about doing this by creating a animation lasting 3.0 seconds which...
 - Sets the block under itself as a barrier block at 2.0 seconds.
 - Removes the block under itself at 2.5 seconds.
 
-**Why we need to set the barrier block when we're removing it moments later?**
-I found that even though we removed the `minecraft:physics` component, the entity was still falling. My belief is that there's some sort of velocity still active due to the gravitational pull `minecraft:physics` applies which exists even after we remove the component. I found that you could remove it by having the entity fall on a block.
+**Why do we need to set the barrier block when we're removing it moments later?**
+I found that even though we removed the `minecraft:physics` component, the entity was still falling. My theory is that there's some sort of velocity still active due to the gravitational pull `minecraft:physics` applies which exists even after we set the gravity to false. To counteract this, I found that you could remove it by having the entity fall on a block.
 
-In this case, we did not need to use any animation controller, however maybe in the future we will!
 \- William Qi
 
 [Home](../index.md)
