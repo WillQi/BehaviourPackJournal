@@ -132,4 +132,4 @@ I found that even though we removed the `minecraft:physics` component, the entit
 
 \- William Qi
 
-[[Home]](../index.md) [[Prev]](Introduction-July-6-2020.md) [[Next]](Projectile-July-19-2020.md)
+[[Home]](../index.md) [[Prev]](Introduction-July-6-2020.md) [[Next]](Projectiles-July-19-2020.md)
